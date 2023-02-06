@@ -1,3 +1,3 @@
 # To-do List app
 
-Add anything to do.
+You can add multiple to-do item and delete it by clicking on the item when necessary.
